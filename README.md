@@ -14,11 +14,11 @@ My name is Made, a passionate :fire: frontend developer from Bali :indonesia:.<b
 
 <!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=primanegara&theme=apprentice&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=primanegara&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
 ### :trollface: Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+ -->
 ---
 <!--
 [![](https://visitcount.itsvg.in/api?id=primanegara&icon=0&color=12)](https://visitcount.itsvg.in) -->
