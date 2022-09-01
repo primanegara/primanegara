@@ -22,3 +22,7 @@ My name is Made, a passionate :fire: frontend developer from Bali :indonesia:.<b
 ---
 <!--
 [![](https://visitcount.itsvg.in/api?id=primanegara&icon=0&color=12)](https://visitcount.itsvg.in) -->
+
+<!--START_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=primanegara)](https://github.com/primanegara/github-readme-stats)
+<!--END_SECTION:waka-->
