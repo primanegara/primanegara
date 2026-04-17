@@ -1,5 +1,5 @@
 ### :scorpius: Hi, Mate
-My name is Made, a passionate :fire: frontend developer from Bali :indonesia:.<br>Nice to know you! :v:
+I'm a passionate :fire: frontend developer from Kerobokan, Bali :indonesia:.<br>Nice to know you! :v:
 
 
 ### :electron: Socials:
